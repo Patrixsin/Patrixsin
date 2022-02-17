@@ -1,1 +1,1 @@
-https://count.getloli.com/get/@:Patrixsin
+<img src="https://count.getloli.com/get/@:Patrixsin" alt=":name" />
