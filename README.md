@@ -1,1 +1,1 @@
-<img src="https://count.getloli.com/get/@:Patrixsin" alt=":name" />
+<img src="https://count.getloli.com/get/@:Patrixsin?theme=gelbooru" alt=":name" />
