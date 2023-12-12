@@ -16,6 +16,4 @@
 
 <div align="left">
 <img src="https://i.pinimg.com/564x/2a/e4/e1/2ae4e1a25a166959dd7b9536c5f65eaf.jpg" height = "360">
-<img src="https://i.pinimg.com/564x/a4/fb/a9/a4fba9420d7d7d379b47ad64e5e7f32f.jpg" height = "360">
-<img src="https://i1.sndcdn.com/artworks-1Fil1yB4owAWblkv-dSHhhg-t500x500.jpg" height = "360">
 </div>
