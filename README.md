@@ -14,6 +14,6 @@
   <img src="https://count.getloli.com/get/@:Patrixsin?theme=gelbooru" alt="animce">
 </div>
 
-<div align="left">
-<img src="https://i.pinimg.com/564x/2a/e4/e1/2ae4e1a25a166959dd7b9536c5f65eaf.jpg" height = "360">
+<div align="center">
+<img src="https://i.pinimg.com/564x/2a/e4/e1/2ae4e1a25a166959dd7b9536c5f65eaf.jpg" height = "512">
 </div>
